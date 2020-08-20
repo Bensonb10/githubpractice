@@ -1,4 +1,3 @@
-# Demo Git Hub
-
+# Demo GitHub
 
 ## More Stuff
